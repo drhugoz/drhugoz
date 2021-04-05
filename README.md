@@ -1,8 +1,8 @@
 ### Hi :boom:
 
 <a href="https://github.com/drhugoz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drhugoz&show_icons=true&count_private=true" alt="drhugoz's github stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drhugoz&langs_count=6&count_private=true&layout=compact" alt="drhugoz's github top languages"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=drhugoz&show_icons=true&count_private=true" alt="drhugoz's github stats" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drhugoz&langs_count=6&count_private=true&layout=compact" alt="drhugoz's github top languages"/>
 </a>
 
 <!--
