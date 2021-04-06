@@ -5,12 +5,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drhugoz&langs_count=10&count_private=true&layout=compact&theme=maroongold" alt="drhugoz's github top languages"/>
 </a>
 
-<div align="left">
 - 🔭 I’m currently working on yad-backend
 - 🌱 I’m currently learning go
 - 👯 I’m looking to collaborate on python/go projects
 - 📫 How to reach me: t.me/drhugoz
-</div>
 
 <!--
 **drhugoz/drhugoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
